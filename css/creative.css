@@ -476,3 +476,16 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.navbar-toggle {
+    background-color: black !important;
+}
+
+@media (max-width: 400px) {
+
+    .navbar-brand {
+  font-size: 15px !important;
+        line-height: 1.5;
+    }
+    
+  }
