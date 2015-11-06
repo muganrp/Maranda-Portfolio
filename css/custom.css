@@ -11,3 +11,9 @@
 .navbar-toggle {
     background-color: black !important;
 }
+
+.text-primary, .text-primary:hover
+{
+ color: #f05f40; 
+
+}
