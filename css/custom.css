@@ -6,3 +6,17 @@
   text-align: left;
   font-size: 10pt;
 }
+<<<<<<< HEAD
+=======
+  <link rel="shortcut icon" href="/favicon.ico" type="img/M-01.png">
+
+.navbar-toggle {
+    background-color: black !important;
+}
+
+.text-primary, .text-primary:hover
+{
+ color: #f05f40; 
+
+}
+>>>>>>> origin/gh-pages
